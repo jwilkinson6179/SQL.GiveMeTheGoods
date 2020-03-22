@@ -1,0 +1,1 @@
+SELECT s.id, s.first_name, s.last_name, s.city, s.country, s.postal_code AS Zip FROM students s;
