@@ -1,0 +1,1 @@
+SELECT * FROM students WHERE city REGEXP '^[^acf]';
